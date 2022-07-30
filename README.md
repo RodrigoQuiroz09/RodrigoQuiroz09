@@ -1,9 +1,9 @@
 <img src="images/header_en.svg"></img>
 
 <table align="right">
- <tr><td><a href="https://www.linkedin.com/in/rodrigo-quiroz-reyes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></td></tr>
-  <tr><td><a href="mailto:quirozdev@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="20"/> </td></tr>
- <tr><td><a href="https://rodrigoquiroz09.github.io/Quiroz-Portafolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4479A1.svg?&style=flat&logoColor=white" height="20"/> </td></tr>
+ <tr><td><a href="https://www.linkedin.com/in/rodrigo-quiroz-reyes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="20"/></a></td></tr>
+  <tr><td><a href="mailto:quirozdev@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="20"/> </a></td></tr>
+ <tr><td><a href="https://rodrigoquiroz09.github.io/Quiroz-Portafolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4479A1.svg?&style=flat&logoColor=white" height="20"/> </a></td></tr>
 </table>
 
 ### :joystick: &nbsp;About Me
