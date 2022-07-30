@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="images/header_en.svg"></img>
+
+### 😄 &nbsp;About Me
+
+&nbsp;&nbsp;&nbsp;:computer:
 
 <!--
 **RodrigoQuiroz09/RodrigoQuiroz09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
